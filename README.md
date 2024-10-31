@@ -1,5 +1,5 @@
 
-# **IMC Calculator App**
+# **APP COMPRAS**
 
 > Um aplicativo Android simples de lista de compras, desenvolvido para facilitar o processo de seleção e totalização dos produtos que você deseja adquirir.
 Corporal (IMC).
